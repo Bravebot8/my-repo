@@ -36,8 +36,7 @@ class MyVals {
         "vietnam" to "Hanoi",
         "malaysia" to "Kuala Lumpur",
         "singapore" to "Singapore",
-        "cos" to "krajwd",
-        "bab" to "teswwdwaddt"
+        "cos" to "15.06"
         // Add more countries and capitals as needed
     )
 }
