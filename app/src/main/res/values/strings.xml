@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCountryApp</string>
+    <string name="enter_country_name">Type a Country Name</string>
+    <string name="choose_your_country">Choose a country</string>
+    <string name="show_capital">Show Capital</string>
+    <string name="target_capital">my val</string>
+    <string name="capital_not_found">Country %1$s not found in database</string>
+    <string name="country_empty">Please type in a country</string>
+    <string name="show_current_time">Show Current Time</string>
+    <string name="capital_found">capital of %1$s is %2$s</string>">
+</resources>

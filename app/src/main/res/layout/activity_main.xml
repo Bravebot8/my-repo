@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/country_input_box"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_country_name"
+        android:inputType="text"
+        android:autofillHints="Country Broh" />
+
+    <TextView
+        android:id="@+id/capital_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+    android:textSize="22sp"
+    />
+
+    <Button
+        android:id="@+id/run_search_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/show_capital"
+    />
+
+    <Button
+        android:id="@+id/show_time_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Current Time" />
+
+    <TextView
+        android:id="@+id/time_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="22sp"
+        />
+
+</LinearLayout>
