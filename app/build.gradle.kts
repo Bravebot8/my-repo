@@ -73,5 +73,9 @@ dependencies {
     testImplementation("org.mockito:mockito-core:3.11.2")
     // Optional: For Kotlin projects
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit:1.5.21")
+    // retrofit
+    implementation ("com.squareup.retrofit2:retrofit:2.9.0")
+    // gson converter
+    implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
 
 }
