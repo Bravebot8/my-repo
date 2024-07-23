@@ -13,7 +13,7 @@ class MyClass {
 
 
     fun getCurrentTime(): String {
-        val sdf = SimpleDateFormat("HH:mm:ss", Locale.getDefault())
+        val sdf = SimpleDateFormat("MMM dd, HH:mm:ss ZZZZ", Locale.getDefault())
         return sdf.format(Date())
     }
 }

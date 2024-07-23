@@ -35,9 +35,7 @@ class MyVals {
         "philippines" to "Manila",
         "vietnam" to "Hanoi",
         "malaysia" to "Kuala Lumpur",
-        "singapore" to "Singapore",
-        "cos" to "15.06.2024",
-        "cos2" to "15.09.2024",
+        "singapore" to "Singapore"
         // Add more countries and capitals as needed
     )
 }
